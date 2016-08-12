@@ -1,9 +1,3 @@
-// Hand tracking algorithm using meanshift and mouse control
-// Author : zouxy
-// Date   : 2014-01-06
-// HomePage : http://blog.csdn.net/zouxy09
-// Email  : zouxy09@qq.com
-
 #include "handTracker.h"
 
 HandTracker::HandTracker()
